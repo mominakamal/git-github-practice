@@ -20,3 +20,9 @@ Understand Pull Requests and merging.
 - git checkout -b
 - git add
 - git commit
+
+## Internship Learning
+I am practicing Git and GitHub as part of my Web Developer Internship at ABT Dev Services.
+
+## Author
+Momina Kamal
