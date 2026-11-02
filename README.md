@@ -12,3 +12,11 @@ Learn repository management.
 Practice branches and commits.
 
 Understand Pull Requests and merging.
+
+## Git Commands Practiced
+- git clone
+- git status
+- git branch
+- git checkout -b
+- git add
+- git commit
